@@ -1,0 +1,7 @@
+{
+  "name": "mi-lab-seguro",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.16.0" 
+  }
+}
